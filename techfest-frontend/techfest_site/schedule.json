@@ -1,0 +1,71 @@
+{
+  "day-1": [
+    {
+      "time": "09:00",
+      "title": "Check\u2011in & Badges",
+      "location": "Lobby"
+    },
+    {
+      "time": "10:00",
+      "title": "Opening Keynote",
+      "location": "Main Hall",
+      "speaker": "Dr. A. Krishnan"
+    },
+    {
+      "time": "11:30",
+      "title": "Workshop: Intro to LLMs",
+      "location": "Lab A",
+      "speaker": "Mentor Team"
+    },
+    {
+      "time": "14:00",
+      "title": "AI Challenge Kickoff",
+      "location": "Hack Arena"
+    },
+    {
+      "time": "17:30",
+      "title": "Tea Break & Networking",
+      "location": "Cafeteria"
+    }
+  ],
+  "day-2": [
+    {
+      "time": "09:30",
+      "title": "Robotics Build Sprint",
+      "location": "Makerspace"
+    },
+    {
+      "time": "11:00",
+      "title": "Talk: Web Perf in 2025",
+      "location": "Auditorium",
+      "speaker": "Priya S."
+    },
+    {
+      "time": "14:00",
+      "title": "UI/UX Jam Briefing",
+      "location": "Design Studio"
+    },
+    {
+      "time": "16:30",
+      "title": "Mentor Office Hours",
+      "location": "Hall B"
+    }
+  ],
+  "day-3": [
+    {
+      "time": "10:00",
+      "title": "Project Submissions",
+      "location": "Helpdesk"
+    },
+    {
+      "time": "12:00",
+      "title": "Demos & Judging",
+      "location": "Main Hall"
+    },
+    {
+      "time": "15:30",
+      "title": "Awards & Closing",
+      "location": "Main Hall"
+    }
+  ]
+}
